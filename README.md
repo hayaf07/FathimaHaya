@@ -3,7 +3,9 @@
 🌱 AI Engineering Student | Python & Machine Learning Enthusiast  
 📊 Currently building AI projects with Python (Pandas, Matplotlib, etc.)  
 🧠 Learning about Data Science, Computer Vision & Deep Learning 
+
 🔧 Exploring the world of AI-powered hardware — from IoT to IT Support to Self-Driving Cars
+
 📚 Sharing my journey, one commit at a time
 
  ####Believe in self-learning####
