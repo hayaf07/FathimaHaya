@@ -4,7 +4,7 @@
 📊 Currently building AI projects with Python (Pandas, Matplotlib, etc.)  
 🧠 Learning about Data Science, Computer Vision & Deep Learning 
 
-🔧 Exploring the world of AI-powered hardware — from IoT to IT Support to Self-Driving Cars
+🔧 Exploring the world of AI-powered hardware — from IoT, IT Support to Self-Driving Cars
 
 📚 Sharing my journey, one commit at a time
 
@@ -16,7 +16,7 @@
 - Basic Machine Learning
 - Data Analytics , Data Science 
 - IOT, IT Support, Electronics 
-- Working on: Face Recognition Project
+- Working on: AI powered hardware projects
 
 ## 📂 Projects
 Check out my repositories for beginner-friendly and Data-related projects!
