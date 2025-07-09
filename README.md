@@ -14,6 +14,7 @@
 - Python, Pandas, Matplotlib
 - Git & GitHub
 - Basic Machine Learning
+- Data Analytics , Data Science 
 - IOT, IT Support, Electronics 
 - Working on: Face Recognition Project
 
