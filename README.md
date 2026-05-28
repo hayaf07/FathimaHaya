@@ -1,8 +1,10 @@
 # Hi, I'm Fathima Haya 👋
 
-🌱 AI Engineering Student | Python & Machine Learning Enthusiast  
+🌱 Computer science Student | Computational science & Machine Learning Enthusiast  
 📊 Currently building AI projects with Python (Pandas, Matplotlib, etc.)  
 🧠 Learning about Data Science, Computer Vision & Deep Learning 
+
+🔎Exploring how to solve real life problems with computation.
 
 🔧 Exploring the world of AI-powered hardware — from IoT, IT Support to Self-Driving Cars
 
